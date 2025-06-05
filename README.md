@@ -1,3 +1,4 @@
+```deep-sleep-neur-ai
 quantum computing - device with computation 
 quantum simulation - simulate a natural system 
 > Atom, Ions, Phtons, Electrons
@@ -16,3 +17,6 @@ quantum simulation - simulate a natural system
 > Entangled - n = 2 systems | ^, % > + | %, ^ > (knowing one, means you know the other)
 > Q*Bits Grow Exponentionally
 ✨✨
+```
+# ai-love-mum
+expert-umbrella,corpo
